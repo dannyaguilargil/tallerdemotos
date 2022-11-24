@@ -1,0 +1,64 @@
+body{
+    background: azure;
+}
+h3{
+    text-align: center;
+}
+.containe{
+   background: #34cec6;
+}
+/* estilo del carousel*/
+#slidesshowImg{
+ 
+    height: 200px;
+    object-fit: cover;
+    object-position: bottom;
+    padding: 0px;
+    
+}
+#id3{
+    text-align: center;
+}
+.cajas{
+    color: #34cec6;
+    border-color: green;
+    border-style: dotted;
+    border-radius: 0.7320644216691069vw;
+    color: black;
+    padding-left: 1.4641288433382138vw;
+    
+}
+
+
+footer{
+    border-radius: 20px;
+    background: grey;
+    padding: 20px 0;
+    position: absolute;
+    bottom: 0;
+    
+}
+.caja_izquierda{
+    background: red;
+    border-style: groove;
+    height: 200px;
+    max-height: 400px;
+
+  
+}
+.caja_media{
+    background: azure;
+    border-style: groove;
+    border-color: aquamarine;
+}
+.caja_derecha{
+    background: azure;
+    border-style: groove;
+    border-color: aquamarine;
+}
+h5{
+    text-align: center;
+}
+.media{
+    text-align: center;
+}

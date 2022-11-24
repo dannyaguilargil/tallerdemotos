@@ -1,0 +1,43 @@
+body{
+    background: azure;
+}
+h3{
+    text-align: center;
+}
+.containe{
+   background: #34cec6;
+}
+/* estilo del carousel*/
+#slidesshowImg{
+    width: 21.961932650073205vw;
+    height: 21.961932650073205vw;
+    object-fit: cover;
+    object-position: bottom;
+    padding: 0px;
+    
+}
+#id3{
+    text-align: center;
+}
+.cajas{
+    color: #34cec6;
+    border-color: green;
+    border-style: dotted;
+    border-radius: 0.7320644216691069vw;
+    color: black;
+    padding-left: 1.4641288433382138vw;
+    
+}
+.imgs_cajitas{
+    width: 8.784773060029282vw;
+    height: 8.784773060029282vw;
+  
+}
+
+footer{
+    border-radius: 20px;
+    background: grey;
+    padding: 20px 0;
+    position: absolute;
+    bottom: 0;
+}

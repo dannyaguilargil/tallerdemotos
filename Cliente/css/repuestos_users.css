@@ -1,0 +1,65 @@
+body{
+    background: azure;
+}
+h3{
+    text-align: center;
+}
+.containe{
+   background: #34cec6;
+}
+#id3{
+    text-align: center;
+}
+footer{
+    border-radius: 20px;
+    background: grey;
+    padding: 20px 0;
+    position: absolute;
+    bottom: 0;
+   
+}
+.izquierdo{
+    background: #34cec6;
+    border-radius: 10px;
+    max-height: 535px;
+}
+.container{
+    text-align: center;
+  
+}
+.res{
+    text-align: left;
+}
+.repuestos{
+    text-align: left;
+}
+.repuest_input{
+    width: 9.969325153374234vw;
+}
+.derecho{
+    background: white;
+
+    border-color: black;
+    border-style: groove;
+    border-radius: 10px;
+   
+    
+   /* text-align: left; */
+
+}.imgs_cajitas{
+    width: 8.784773060029282vw;
+    height: 8.784773060029282vw;
+    display: inline-block;
+    font-size: inherit;
+}
+.derechito{
+    padding: 0px;
+}
+.cajita_div{
+    width: 314px;
+    padding: 1px;
+    border-radius: 5px;
+    border-color: #34cec6;
+    border-style: inset;
+  
+}

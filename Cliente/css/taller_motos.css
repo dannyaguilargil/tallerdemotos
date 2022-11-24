@@ -1,0 +1,84 @@
+body{
+    background: azure;
+}
+h3{
+    text-align: center;
+}
+.containe{
+   background: #34cec6;
+}
+/* estilo del carousel*/
+
+
+#id3{
+    text-align: center;
+}
+
+
+footer{
+    border-radius: 20px;
+    background: grey;
+    padding: 20px 0;
+    position: absolute;
+    bottom: 0;
+    
+}
+.caja_izquierda{
+    background: whitesmoke;
+    border-style: groove;
+    padding-left: 50px;
+    text-align: left;
+    position: absolute;
+    bottom: 15%;
+    left: 5%;
+    height: 250px;
+    width: 350px;
+    border-color: aquamarine;
+}
+.caja_izquierda2{
+    background: whitesmoke;
+
+    padding-left: 50px;
+    text-align: left;
+    position: absolute;
+    bottom: 20%;
+    left: 5%;
+    height: 250px;
+    width: 350px;
+}
+.caja_media{
+    background: azure;
+    border-style: groove;
+    border-color: aquamarine;
+    position: absolute;
+    left: 35%;
+
+}
+.caja_derecha{
+    background: whitesmoke;
+    border-style: groove;
+    position: absolute;
+    text-align: left;
+    bottom: 15%;
+    right: 5%;
+    height: 250px;
+    width: 350px;
+    border-color: aquamarine;
+}
+.caja_derecha2{
+    background: whitesmoke;
+    position: absolute;
+    text-align: left;
+    bottom: 20%;
+    right: 5%;
+    height: 250px;
+    width: 350px;
+}
+footer{
+    border-radius: 20px;
+    background: grey;
+    padding-left: 5%;
+    position: absolute;
+    bottom: 0;
+    height: 60px;;
+}
