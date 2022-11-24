@@ -1,2 +1,2 @@
 # tallerdemotos
-sistema web para taller de motos
+sistema web para taller de motos V2.0
