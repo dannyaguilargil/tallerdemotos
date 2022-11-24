@@ -1,10 +1,4 @@
 <!--CONVERTIDOR -> https://khaledkzy.github.io/pixel-vh-vw-converter/ -->
-
-
-
-
-
-
 <!DOCTYPE html>
 <html lang="es">
 <head>
